@@ -31,10 +31,6 @@ int main()
 	test a(3,9);
 	int b = a.print();
 	cout << "hello, micro" << endl;
-<<<<<<< HEAD
 	cout << b << endl;
-=======
-	cout << "edited in branch n2 and n1 has been deleted." << endl;
->>>>>>> n2
 	return 0;
 }
